@@ -1,8 +1,3 @@
 # Megatank58
 
-Hey everyone im Megatank58 or well known as, Im a JavaScript developer and currently working on these:
-
-* Discord bot
-* Intergation for websites using Discord
-* Integrating Discord in Games
-* And many more
+Hello there! Im Megatank58, a JS/TS developer from India mainly doing backend, trying to learn frontend and doing some discord bots feel free to checkout [my website](https://megatank58.github.io)
