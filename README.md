@@ -2,7 +2,7 @@
 
 ![](https://github.com/megatank58/megatank58/raw/output/github-contribution-grid-snake.svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&vCenter=true&width=1000&height=30&lines=Hi+there!+I+am+megatank58%2C+Js%2FTs+programmer+from+India...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&vCenter=true&width=1000&height=30&lines=Hi+there!+I+am+megatank58%2C+Js%2FTs+programmer+from+India)](https://git.io/typing-svg)
 
 ## Languages and Frameworks
 
